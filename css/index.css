@@ -333,6 +333,7 @@ img {
     display: grid;
     justify-content: center;
     align-items: center;
+    text-align: left;
 }
 
 .hobby-1 img {
