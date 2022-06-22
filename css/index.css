@@ -295,8 +295,8 @@ img {
 }
 
 .data {
-    gap: 7em;
-    display: flex;
+    gap: 1em;
+    display: grid;
     justify-content: center;
     align-items: center;
 }
